@@ -13,7 +13,7 @@
     <img width="30px" src="https://www.pinpng.com/pngs/m/208-2082662_logo-nestjs-nest-js-hd-png-download.png" />
     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" />
     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
-    <img width="40px" src="https://e7.pngegg.com/pngimages/722/830/png-clipart-node-js-javascript-asynchronous-i-o-chrome-v8-event-driven-programming-others-miscellaneous-angle.png" />
+    <img width="40px" src="file:///Users/thaistcosta/Downloads/nodejs.svg" />
   <div>
 
 
