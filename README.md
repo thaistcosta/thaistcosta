@@ -7,7 +7,7 @@
 🤸‍♀️ Besides coding, I'm passionate about horses, circus arts and traveling.
 
 ### Tecnologies I'm keen on:
-  <div display="flex" padding="15px">
+  <div display="flex" padding="15px" margin="10px" >
     <img width="30px" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"/>
     <img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" />
     <img width="30px" src="https://www.pinpng.com/pngs/m/208-2082662_logo-nestjs-nest-js-hd-png-download.png" />
