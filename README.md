@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🏮 I'm a Software Engineer currently living in Barcelona, Spain
+
+🔭 I’m currently working on my pet project
+
+🤸‍♀️ Besides coding, I'm passionate about horses, circurs arts and traveling 
+
+
 <!--
 **thaistcosta/thaistcosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
