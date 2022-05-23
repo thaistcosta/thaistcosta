@@ -9,12 +9,7 @@
 
 ### Tecnologies I'm keen on:
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-| <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>  |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-
+<img width="20px" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"/>
   FE: Angular, React.<br>Languages: Typescript, Javascript<br>BE: NestJS, Express, Koa, NodeJs<br>DB: MongoDB, Postgresql<br>API: GraphQL
 
 
