@@ -6,6 +6,13 @@
 
 🤸‍♀️ Besides coding, I'm passionate about horses, circus arts and traveling 
 
+Tecnologies I'm keen on:
+  FE: Angular, React
+  Languages: Typescript, Javascript
+  BE: NestJS, Express, Koa, NodeJs
+  DB: MongoDB, Postgresql
+  API: GraphQL
+
 
 <!--
 **thaistcosta/thaistcosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
