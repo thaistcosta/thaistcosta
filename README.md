@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on my pet project
 
-🤸‍♀️ Besides coding, I'm passionate about horses, circurs arts and traveling 
+🤸‍♀️ Besides coding, I'm passionate about horses, circus arts and traveling 
 
 
 <!--
