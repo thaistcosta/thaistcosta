@@ -6,11 +6,15 @@
 
 🤸‍♀️ Besides coding, I'm passionate about horses, circus arts and traveling.
 
-
 ### Tecnologies I'm keen on:
+https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg
+<img width="30px" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"/>
+<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" />
+<img width="30px" src="https://www.pinpng.com/pngs/m/208-2082662_logo-nestjs-nest-js-hd-png-download.png" />
+<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" />
+<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
+<img width="30px" src="https://e7.pngegg.com/pngimages/722/830/png-clipart-node-js-javascript-asynchronous-i-o-chrome-v8-event-driven-programming-others-miscellaneous-angle.png" />
 
-<img width="20px" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"/>
-  FE: Angular, React.<br>Languages: Typescript, Javascript<br>BE: NestJS, Express, Koa, NodeJs<br>DB: MongoDB, Postgresql<br>API: GraphQL
 
 
 <!--
