@@ -4,19 +4,12 @@
 
 🔭 I’m currently working on my pet project
 
-🤸‍♀️ Besides coding, I'm passionate about horses, circus arts and traveling 
+🤸‍♀️ Besides coding, I'm passionate about horses, circus arts and traveling.
+
 
 Tecnologies I'm keen on:
 
-  FE: Angular, React
-  
-  Languages: Typescript, Javascript
-  
-  BE: NestJS, Express, Koa, NodeJs
-  
-  DB: MongoDB, Postgresql
-  
-  API: GraphQL
+  FE: Angular, React.<br>Languages: Typescript, Javascript<br>BE: NestJS, Express, Koa, NodeJs<br>DB: MongoDB, Postgresql<br>API: GraphQL
 
 
 <!--
