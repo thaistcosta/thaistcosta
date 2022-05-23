@@ -7,7 +7,7 @@
 🤸‍♀️ Besides coding, I'm passionate about horses, circus arts and traveling.
 
 
-Tecnologies I'm keen on:
+##Tecnologies I'm keen on:
 
   FE: Angular, React.<br>Languages: Typescript, Javascript<br>BE: NestJS, Express, Koa, NodeJs<br>DB: MongoDB, Postgresql<br>API: GraphQL
 
