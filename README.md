@@ -8,7 +8,8 @@
 
 ### Tecnologies I'm keen on:
   <div display="flex">
-    <img width="30px" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"/>
+    ![angular-icon](https://cdn.worldvectorlogo.com/logos/angular-icon.svg)
+<!--     <img width="30px" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"/> -->
     <img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" />
     <img width="30px" src="https://www.pinpng.com/pngs/m/208-2082662_logo-nestjs-nest-js-hd-png-download.png" />
     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" />
