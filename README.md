@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi, I am Thaís 👋
 
 🏮 I'm a Software Engineer currently living in Barcelona, Spain
 
